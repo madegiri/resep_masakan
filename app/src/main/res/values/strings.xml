@@ -1,0 +1,252 @@
+<resources>
+    <string name="app_name">Resep Makanan</string>
+
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Nasi Goreng Ayam</item>
+        <item>Ayam Goreng</item>
+        <item>Mie Goreng Ayam</item>
+        <item>Kerak Telor</item>
+        <item>Telur Balado</item>
+        <item>Opor Ayam</item>
+        <item>Soto Ayam</item>
+        <item>Sayur Sop</item>
+        <item>Baso Ayam</item>
+        <item>Ayam Balado</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+        Nasi Goreng Ayam adalah hidangan nasi yang digoreng dengan bumbu dan potongan ayam, sering kali disajikan dengan telur mata sapi di atasnya.\n\n
+        Alat dan Bahan:\n
+        - Nasi putih (1 piring)\n
+        - Ayam fillet (100 gram, potong kecil)\n
+        - Bawang merah (3 siung)\n
+        - Bawang putih (2 siung)\n
+        - Kecap manis (1 sdm)\n
+        - Saus tiram (1 sdm)\n
+        - Garam dan merica secukupnya\n
+        - Minyak goreng\n
+        - Telur (1 butir)\n\n
+        Cara Pembuatan:\n
+        1. Tumis bawang merah dan bawang putih hingga harum.\n
+        2. Masukkan potongan ayam, aduk hingga matang.\n
+        3. Tambahkan nasi putih, kecap manis, dan saus tiram, aduk rata.\n
+        4. Bumbui dengan garam dan merica sesuai selera.\n
+        5. Sajikan dengan telur mata sapi di atasnya.
+        </item>
+
+        <item>
+        Ayam Goreng adalah hidangan ayam yang digoreng setelah dilumuri bumbu sehingga menghasilkan rasa yang gurih dan renyah.\n\n
+
+        Alat dan Bahan:\n
+        - Ayam potong (500 gram)\n
+        - Bawang putih (5 siung)\n
+        - Ketumbar (1 sdt)\n
+        - Garam (1 sdt)\n
+        - Air jeruk nipis (2 sdm)\n
+        - Minyak goreng\n\n
+
+        Cara Pembuatan:\n
+        1. Lumuri ayam dengan air jeruk nipis dan garam, biarkan selama 15 menit.\n
+        2. Haluskan bawang putih dan ketumbar, lalu balurkan ke ayam.\n
+        3. Panaskan minyak, lalu goreng ayam dalam minyak panas hingga kuning kecoklatan.\n
+        4. Angkat dan tiriskan, sajikan dengan sambal atau lalapan sesuai selera.
+        </item>
+
+        <item>
+        Mie Goreng Ayam adalah hidangan mie goreng yang dicampur dengan potongan ayam dan bumbu-bumbu yang gurih.\n\n
+
+        Alat dan Bahan:\n
+        - Mie telur (1 bungkus)\n
+        - Ayam fillet (100 gram, potong dadu)\n
+        - Bawang putih (3 siung)\n
+        - Saus tiram (1 sdm)\n
+        - Kecap manis (2 sdm)\n
+        - Kecap asin (1 sdt)\n
+        - Sayur sawi (secukupnya)\n
+        - Minyak goreng\n\n
+
+        Cara Pembuatan:\n
+        1. Rebus mie hingga matang, lalu tiriskan.\n
+        2. Tumis bawang putih hingga harum, masukkan ayam dan tumis hingga matang.\n
+        3. Tambahkan mie yang sudah ditiriskan, lalu tuangkan saus tiram, kecap manis, dan kecap asin.\n
+        4. Aduk rata dan masak hingga bumbu meresap. Masukkan sayur sawi, aduk sebentar.\n
+        5. Angkat dan sajikan mie goreng ayam selagi hangat.
+        </item>
+
+        <item>
+        Kerak Telor adalah makanan khas Betawi yang terbuat dari beras ketan, telur, dan kelapa parut yang dimasak hingga kering dan renyah.\n\n
+
+        Alat dan Bahan:\n
+        - Beras ketan putih (100 gram, rendam 1 jam)\n
+        - Telur ayam (2 butir)\n
+        - Ebi kering (1 sdm, haluskan)\n
+        - Kelapa parut (2 sdm, sangrai)\n
+        - Bawang goreng (secukupnya)\n
+        - Gula, garam, dan merica (secukupnya)\n
+        - Minyak untuk menggoreng\n\n
+
+        Cara Pembuatan:\n
+        1. Tiriskan beras ketan yang sudah direndam, lalu kukus hingga matang.\n
+        2. Panaskan sedikit minyak di wajan, masukkan beras ketan dan ratakan di wajan.\n
+        3. Kocok telur dan tuang di atas ketan, tambahkan ebi, kelapa sangrai, gula, garam, dan merica.\n
+        4. Tutup wajan dan masak hingga bagian bawah kerak telor kering.\n
+        5. Balikkan wajan dan biarkan kerak telor matang merata. Sajikan dengan taburan bawang goreng.
+
+        </item>
+
+        <item>
+        Telur Balado adalah masakan telur yang dimasak dengan bumbu balado yang pedas dan gurih.\n\n
+
+        Alat dan Bahan:\n
+        - Telur ayam (4 butir, rebus dan kupas)\n
+        - Bawang merah (4 siung)\n
+        - Bawang putih (2 siung)\n
+        - Cabai merah besar (3 buah)\n
+        - Tomat (1 buah)\n
+        - Gula, garam, dan penyedap rasa secukupnya\n
+        - Minyak goreng\n\n
+
+        Cara Pembuatan:\n
+        1. Goreng telur rebus hingga sedikit kecoklatan, lalu angkat dan tiriskan.\n
+        2. Haluskan bawang merah, bawang putih, cabai merah, dan tomat.\n
+        3. Tumis bumbu halus hingga matang dan harum.\n
+        4. Masukkan telur yang sudah digoreng, aduk rata dengan bumbu balado.\n
+        5. Tambahkan gula, garam, dan penyedap rasa, masak sebentar hingga bumbu meresap.\n
+        6. Angkat dan sajikan telur balado dengan nasi hangat.
+        </item>
+
+        <item>
+        Opor Ayam adalah masakan ayam khas Indonesia yang dimasak dengan santan dan bumbu rempah-rempah yang kaya.\n\n
+
+        Alat dan Bahan:\n
+        - Ayam potong (500 gram)\n
+        - Santan kental (200 ml)\n
+        - Bawang merah (5 siung)\n
+        - Bawang putih (3 siung)\n
+        - Ketumbar (1 sdt)\n
+        - Serai (2 batang, memarkan)\n
+        - Daun salam (2 lembar)\n
+        - Lengkuas (2 cm, memarkan)\n
+        - Garam dan gula secukupnya\n
+        - Minyak untuk menumis\n\n
+
+        Cara Pembuatan:\n
+        1. Tumis bawang merah, bawang putih, ketumbar, serai, daun salam, dan lengkuas hingga harum.\n
+        2. Masukkan potongan ayam, aduk hingga berubah warna.\n
+        3. Tuangkan santan, tambahkan garam dan gula, aduk rata.\n
+        4. Masak dengan api kecil hingga ayam empuk dan bumbu meresap.\n
+        5. Sajikan opor ayam bersama lontong atau ketupat.
+        </item>
+
+        <item>
+        Soto Ayam adalah sup ayam khas Indonesia yang berkuah kuning dengan rasa rempah yang kaya dan disajikan dengan nasi atau lontong.\n\n
+
+        Alat dan Bahan:\n
+        - Ayam kampung (500 gram)\n
+        - Bawang merah (4 siung)\n
+        - Bawang putih (3 siung)\n
+        - Kunyit (2 cm)\n
+        - Jahe (2 cm)\n
+        - Serai (2 batang, memarkan)\n
+        - Daun salam (2 lembar)\n
+        - Daun jeruk (2 lembar)\n
+        - Garam dan gula secukupnya\n
+        - Air (1 liter)\n
+        - Bihun, telur rebus, tauge, dan bawang goreng untuk pelengkap\n\n
+
+        Cara Pembuatan:\n
+        1. Rebus ayam hingga matang, lalu tiriskan dan suwir dagingnya.\n
+        2. Haluskan bawang merah, bawang putih, kunyit, dan jahe, lalu tumis hingga harum bersama serai, daun salam, dan daun jeruk.\n
+        3. Masukkan bumbu tumis ke dalam air rebusan ayam, tambahkan garam dan gula sesuai selera.\n
+        4. Rebus hingga mendidih, masukkan suwiran ayam.\n
+        5. Sajikan soto dengan bihun, telur rebus, tauge, dan taburan bawang goreng.
+        </item>
+
+        <item>
+        Sayur Sop adalah hidangan sup sayuran yang terdiri dari berbagai macam sayuran seperti wortel, kentang, dan kol, sering disajikan dengan daging ayam atau sapi.\n\n
+
+        Alat dan Bahan:\n
+        - Daging ayam (250 gram)\n
+        - Wortel (2 buah, potong tipis)\n
+        - Kentang (2 buah, potong dadu)\n
+        - Kol (100 gram, potong kasar)\n
+        - Buncis (50 gram, potong kecil)\n
+        - Bawang merah (4 siung)\n
+        - Bawang putih (2 siung)\n
+        - Seledri dan daun bawang (secukupnya)\n
+        - Garam, gula, dan merica secukupnya\n
+        - Air (1 liter)\n
+        - Minyak goreng\n\n
+
+        Cara Pembuatan:\n
+        1. Rebus daging ayam hingga matang, angkat dan suwir-suwir.\n
+        2. Tumis bawang merah dan bawang putih hingga harum, lalu masukkan ke dalam air rebusan ayam.\n
+        3. Masukkan wortel, kentang, buncis, dan kol, masak hingga sayuran matang.\n
+        4. Tambahkan garam, gula, dan merica sesuai selera.\n
+        5. Sajikan sayur sop dengan taburan seledri dan daun bawang.
+        </item>
+
+        <item>
+        Baso Ayam adalah bakso yang terbuat dari daging ayam giling yang dicampur dengan bumbu-bumbu dan dibentuk menjadi bulatan.\n\n
+
+        Alat dan Bahan:\n
+        - Daging ayam giling (300 gram)\n
+        - Tepung tapioka (50 gram)\n
+        - Bawang putih (3 siung, haluskan)\n
+        - Garam (1 sdt)\n
+        - Merica bubuk (1/2 sdt)\n
+        - Air es (50 ml)\n
+        - Kaldu ayam (1 liter)\n
+        - Daun bawang dan seledri (secukupnya)
+
+        Cara Pembuatan:\n
+        1. Campur daging ayam giling dengan bawang putih halus, garam, merica, dan tepung tapioka. Aduk hingga rata.\n
+        2. Tambahkan air es sedikit demi sedikit sambil diuleni hingga adonan kalis.\n
+        3. Bentuk adonan menjadi bulatan-bulatan kecil.\n
+        4. Didihkan kaldu ayam, masukkan bakso ayam ke dalam kaldu dan masak hingga mengapung.\n
+        5. Sajikan bakso ayam dengan kuah kaldu, daun bawang, dan seledri.
+        </item>
+
+        <item>
+        Ayam Balado adalah masakan ayam yang digoreng kemudian dimasak dengan bumbu balado pedas khas Padang.\n\n
+
+        Alat dan Bahan:\n
+        - Ayam potong (500 gram)\n
+        - Bawang merah (6 siung)\n
+        - Bawang putih (3 siung)\n
+        - Cabai merah besar (5 buah)\n
+        - Tomat (1 buah)\n
+        - Garam dan gula secukupnya\n
+        - Minyak goreng\n\n
+
+        Cara Pembuatan:\n
+        1. Goreng ayam hingga matang dan kecoklatan, lalu tiriskan.\n
+        2. Haluskan bawang merah, bawang putih, cabai merah, dan tomat.\n
+        3. Tumis bumbu halus hingga matang dan harum.\n
+        4. Masukkan ayam goreng ke dalam bumbu, aduk rata.\n
+        5. Tambahkan garam dan gula sesuai selera, masak hingga bumbu meresap.\n
+        6. Sajikan ayam balado dengan nasi putih hangat.
+        </item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/nasi_goreng</item>
+        <item>@drawable/ayam_goreng</item>
+        <item>@drawable/mie_goreng_ayam</item>
+        <item>@drawable/kerak_telor</item>
+        <item>@drawable/telur_balado</item>
+        <item>@drawable/opor_ayam</item>
+        <item>@drawable/soto_ayam</item>
+        <item>@drawable/sayur_sop</item>
+        <item>@drawable/baso_ayam</item>
+        <item>@drawable/ayam_balado</item>
+    </integer-array>
+
+    <string name="about">About</string>
+    <string name="share">Share</string>
+</resources>
